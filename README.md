@@ -1,5 +1,12 @@
+- 👋 Hi, I’m @Mohamad.J.Makki
+- 👀 I’m interested in Java, Golang, C# for BackEnd <br>also <br>work with <br>Javascript and Typescript<br>for FrontEnd<br>I'm Using Spring, Gin-gonic, Asp.Net Core, Angular and Svelte
+- 🌱 I’m currently learning GraphQL
+- 💞️ I’m looking to collaborate on a challengeable project 
+- 📫 How to reach me : mohamad.j.makki@gmail.com
+
+
 # 💫 About Me:
-Java, Golang, C# for BackEnd <br>also <br>work with <br>Javascript and Typescript<br>for FrontEnd<br>I'm Using Spring, Gin-gonic, Asp.Net Core, Angular and Svelte
+Passionate Java Engineer
 
 
 # 💻 Tech Stack:

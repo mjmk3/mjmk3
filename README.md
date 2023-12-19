@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Java developer</h3>
 
 - 💬 Ask me about **Java, Spring, Angular, Golang, Gin-Gonic and Software Engineering besides the Database**
-- 👀 I’m interested in Java, Golang, C# for BackEnd <br>also <br>work with <br>Javascript and Typescript<br>for FrontEnd<br>I'm Using Spring, Gin-gonic, Asp.Net Core, Angular and Svelte
+- 👀 I’m interested in Java, Golang for BackEnd <br>also <br>work with <br>Javascript and Typescript<br>for FrontEnd<br>I'm Using Spring, Gin-gonic, Angular and Svelte
 - 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on a challengeable project 
 - 📫 How to reach me : mohamad.j.makki@gmail.com

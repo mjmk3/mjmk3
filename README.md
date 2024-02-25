@@ -23,10 +23,10 @@
 <!-- skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,html,js,eclipse,idea,spring" />
-    <img src="https://skillicons.dev/icons?i=git,redis,postgresql,mysql,linux" />
-    <img src="https://skillicons.dev/icons?i=css,mongodb,maven,androidstudio,bash,powershell,golang" />
-    <img src="https://skillicons.dev/icons?i=svelte,angular,gradle,postman,graphql" />
+    <img src="https://skillicons.dev/icons?i=,cpp,java,spring,golang,html,js,css,svelte,angular" />
+    <img src="https://skillicons.dev/icons?i=redis,postgresql,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=maven,gradle,androidstudio,eclipse,idea" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,postman,graphql,git,linux" />
   </a>
 </p>
 

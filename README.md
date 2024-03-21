@@ -5,9 +5,9 @@
 <h1 align="center">You can call me MJ</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-- 💬 Ask me about **Java, Spring, Angular, Golang, Gin-Gonic and Software Engineering besides the Database**
-- 👀 I’m passionate about Java, Golang for BackEnd <br>also <br>work with <br>Javascript and Typescript<br>for FrontEnd<br>I'm Using Spring, Gin-gonic, Angular and Svelte
-- Also working with Quarkus, Apache-Kafka and Jersey
+- 💬 Ask me about **Java, Spring, Jersey, Quarkus, Golang, Gin-Gonic , Angular and Software Engineering besides the Database **
+- 👀 I’m passionate about Java, Golang for BackEnd <br>also <br>work with <br>Javascript and Typescript<br>for FrontEnd<br>I'm Using Spring, Gin-gonic, Angular
+- Also working with Apache-Kafka and Keycloack
 - I’m looking to collaborate on a challengeable project 
 - How to reach me : mohamad.j.makki@outlook.com
 
